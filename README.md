@@ -1,1 +1,1 @@
-# template-cpp-gh
+# template-cpp
